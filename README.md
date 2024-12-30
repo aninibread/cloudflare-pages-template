@@ -1,4 +1,4 @@
-# cloudflare-pages-template
+# cloudflare-pages-templatesss
 
 Get started with [Cloudflare Pages](https://pages.cloudflare.com/) by deploying this pretty template on your own account, and start playing around.
 
